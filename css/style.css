@@ -484,8 +484,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .about-container {
-  background: url('https://i.imgur.com/bbTZYxg.jpg');
-  background-position: center;
+  background: url('https://i.imgur.com/eDtahOS.png');
+  background-position: left;
   background-repeat: no-repeat;
 }
 
@@ -549,7 +549,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   line-height: 24px;
 }
 
-/* Portfolio Section
+/* Products Section
 --------------------------------*/
 #portfolio {
   background: #fff;
@@ -613,6 +613,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 #portfolio .portfolio-item:hover .details span {
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
+}
+
+.col-centered{
+  float:center;
+  margin: 0 auto;
 }
 
 /* Contact Section
