@@ -620,6 +620,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 0 auto;
 }
 
+.text-center{
+  margin:0px auto; /*will center item*/
+  align-items: basline;
+}
+
 /* Contact Section
 --------------------------------*/
 #contact {
